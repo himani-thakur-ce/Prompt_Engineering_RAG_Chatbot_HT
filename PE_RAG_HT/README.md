@@ -62,3 +62,6 @@ The application will open in your default web browser. You can now ask questions
 - **`gemini_api.txt` is empty**: Make sure you have created the file and pasted your API key inside.
 - **`pe_index.json` not found**: You must run `python build_index.py` before starting the app.
 - **Model not found**: Ensure you have access to `models/gemini-2.0-flash` and `models/text-embedding-004`. You can run `python check_models.py` to see what models are available to you.
+
+---
+Made by Himani Thakur, Computer Engineering, DBATU-Lonere.
