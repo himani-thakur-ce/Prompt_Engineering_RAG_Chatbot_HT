@@ -64,4 +64,8 @@ The application will open in your default web browser. You can now ask questions
 - **Model not found**: Ensure you have access to `models/gemini-2.0-flash` and `models/text-embedding-004`. You can run `python check_models.py` to see what models are available to you.
 
 ---
-Made by Himani Thakur, Computer Engineering, DBATU-Lonere.
+Made by Himani Thakur(23030331245060),
+Siddhi Kavitake(24030331245508),
+Computer Engineering, DBATU-Lonere.
+---
+
